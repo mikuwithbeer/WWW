@@ -1,0 +1,16 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+    font-family: monospace;
+
+    display: flex;
+    align-items: center;
+    justify-self: center
+}
+
+#main {
+    text-align: center;
+}
